@@ -1,7 +1,5 @@
-teleop
-======
-
-is the teleop for the robot
+//teleop
+//is the teleop for the robot
 
 #pragma config(Hubs,  S1, HTMotor,  HTServo,  none,     none)
 #pragma config(Hubs,  S3, HTMotor,  none,     none,     none)
